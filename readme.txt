@@ -1,0 +1,1 @@
+Developed a Calculator in Java using SWING as a hobby project. Also, powered the intelligence of parathesis matching by using stack. I also used stack to convert expression to prefix and then resolve the output for the same.
