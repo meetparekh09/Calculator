@@ -18,7 +18,7 @@ import javax.swing.JTextField;
  * @author Meet Parekh
  */
 public class CreateWindow {
-    protected Dimension FrameSize = new Dimension(200, 210);
+    protected Dimension FrameSize = new Dimension(350, 250);
     protected Dimension ButtonSize = new Dimension(50, 50);
     protected JButton[] b = new JButton[10];
     protected JButton bEquals = new JButton("=");
